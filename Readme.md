@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алексей Владимиров](https://up.htmlacademy.ru/javascript/15/user/220670).
-* Наставник: `Неизвестно`.
+* Наставник: [Никита Ткачук](https://htmlacademy.ru/profile/id450211).
 
 ---
 
