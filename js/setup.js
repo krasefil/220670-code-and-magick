@@ -95,11 +95,7 @@ setupClose.addEventListener('keydown', function(evt) {
   }
 });
 
-var changeColor = function (nameColor) {
-  randomInteger(0, nameColor.length - 1);
-};
 var setupFireballWrap = document.querySelector('.setup-fireball-wrap');
-
 setupFireballWrap.addEventListener('click', function(){
   setupFireballWrap.style.background = FIREBALL_COLOR[randomInteger(0, FIREBALL_COLOR.length - 1)];
 });
